@@ -12,7 +12,14 @@ while x <= 128:
     x += 1
     pass
 
+# Left off on for loops and Dictonaries (key value pairs)
 
+student = {
+"name": "Mark",
+"student_id": 12,
+"feedback": None
+}
 
+print(student["name"])
 
      
